@@ -15,7 +15,7 @@ Modular Architecture: Designed with distinct services for easy development, depl
 📦 Architecture & Components
 Dash-foodly is structured into several interconnected services:
 
-dash-backend: The core API server, responsible for handling all business logic, data persistence (e.g., PostgreSQL, MongoDB), user authentication, and communication between different platform components.
+dash-backend: The core API server, responsible for handling all business logic, data persistence ( MongoDB), user authentication, and communication between different platform components.
 
 dash: The customer-facing web application or a central administration dashboard, built with a modern frontend framework React Native
 
@@ -67,7 +67,7 @@ Frontend/Dashboard Setup:
 Bash
 
 cd dash
-# Install dependencies (pm install or yarn install)
+# Install dependencies (npm install or yarn install)
 # Run the frontend (npm start or yarn start)
 
 Mobile App Setup (Restaurant / Delivery):
